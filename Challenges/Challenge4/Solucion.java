@@ -1,9 +1,11 @@
+//Exercise here ("https://drive.google.com/file/d/1OKr80tJGHmXhX4umX3ykg883bG-LmsjA/view?usp=sharing")
+
 package Challenges.Challenge4;
 
 import java.util.ArrayList;
 
 public class Solucion {
-    
+
     public static Object[] reportes(ArrayList<Estudiante> grupo) {
         ArrayList <Double> nota = new ArrayList<>();
         double suma = 0;
